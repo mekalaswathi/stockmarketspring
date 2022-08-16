@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: cogjava232
+Build-Jdk: 17.0.2
+Implementation-Title: stock-management-app
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.fsestockapp
+Implementation-URL: https://spring.io/projects/spring-boot/stock-managem
+ ent-app
+Created-By: Maven Integration for Eclipse
+
